@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <transakcije>
+        <transakcija sifra="6479" iznos="500" brojRacPrim="HR3124840087883463816" brojRacPos="HR8523400097556557592"/>
+        <transakcija sifra="4741" iznos="1200" brojRacPrim="HR1424840083829952268" brojRacPos="HR7123600008676668395"/>
+        <transakcija sifra="3043" iznos="100" brojRacPrim="HR2824840089532384815" brojRacPos="HR1524840082568475398"/>
+        <transakcija sifra="7031" iznos="5000" brojRacPrim="HR2023600001178479491" brojRacPos="HR3124840087883463816"/>
+        <transakcija sifra="6479" iznos="500" brojRacPrim="HR2824840089532384815" brojRacPos="HR2023600001178479491"/>
+        <transakcija sifra="6479" iznos="200" brojRacPrim="HR6524020062878178493" brojRacPos="HR6524020062878172493"/>
+        <transakcija sifra="6479" iznos="300" brojRacPrim="HR1524840082568475398" brojRacPos="HR2023600001178479491"/>
+    </transakcije>
+</data>

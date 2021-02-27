@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <bankari>
+    <bankar ime="Matilda" prezime="Bacic" oib="77253755583" sifra="6479" />
+    <bankar ime="Godemir" prezime="Vidakovic" oib="42099982631" sifra="4224" />
+    <bankar ime="Suncana" prezime="Martic" oib="24766842089" sifra="4741" />
+    <bankar ime="Petra" prezime="Loncar" oib="18704312886" sifra="3087" />
+    <bankar ime="Dusko" prezime="Obad" oib="19295086716" sifra="3043" />
+    <bankar ime="Matko" prezime="Lucic" oib="28529106044" sifra="7031" />
+  </bankari>
+</data>

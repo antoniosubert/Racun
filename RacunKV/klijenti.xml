@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <klijenti>
+        <klijent ime="Jasmin" prezime="Popovic" oib="47546967446" adresa="Split" sifra="0486"/>
+        <klijent ime="Matilda" prezime="Perkovic" oib="87939910546" adresa="Lucko" sifra="5656"/>
+        <klijent ime="Zvonimira" prezime="Delic" oib="25770369666" adresa="Stari" sifra="9802"/>
+        <klijent ime="Ljiljana" prezime="Varga" oib="35587198031" adresa="Podstrana" sifra="6500"/>
+        <klijent ime="Mateo" prezime="Milic" oib="73804133908" adresa="Sucurac" sifra="6075"/>
+        <klijent ime="Mile" prezime="Petrovic" oib="64504664156" adresa="Trogir" sifra="5664"/>
+        <klijent ime="Dragomir" prezime="Vukelic" oib="30992022690" adresa="Krk" sifra="8539"/>
+        <klijent ime="Nada" prezime="Jovic" oib="74091250007" adresa="Split" sifra="9845"/>
+        <klijent ime="Ljubica" prezime="Zagorec" oib="57264871391" adresa="Split" sifra="3237"/>
+        <klijent ime="Ratko" prezime="Brajkovic" oib="20775591970" adresa="Varazdin" sifra="7728"/>
+        <klijent ime="Bogomil" prezime="Vuckovic" oib="31089426314" adresa="Karlovac" sifra="1549"/>
+        <klijent ime="Daniela" prezime="Stolar" oib="77114726159" adresa="Split" sifra="2281"/>
+        <klijent ime="Franka" prezime="Zagorec" oib="62713558992" adresa="Koprivnica" sifra="5238"/>
+        <klijent ime="Mijo" prezime="Bilic" oib="58506828384" adresa="Rijeka" sifra="5768"/>
+        <klijent ime="Monika" prezime="Matijevic" oib="54644185934" adresa="Pula" sifra="7704"/>
+        <klijent ime="Dobroslav" prezime="Vidovic" oib="65138599121" adresa="Slunj" sifra="2224"/>
+        <klijent ime="Gabrela" prezime="Stankovic" oib="81093463038" adresa="Osijek" sifra="3221"/>
+        <klijent ime="Domagoj" prezime="Lukic" oib="64202494296" adresa="Imotski" sifra="0065"/>
+        <klijent ime="Dobrovit" prezime="Perkovic" oib="94070932819" adresa="Zagreb" sifra="6309"/>
+        <klijent ime="Marin" prezime="Maric" oib="987984989519" adresa="Sisak" sifra="5663"/>
+        <klijent ime="Sinan" prezime="Sucic" oib="64587631222" adresa="Beograd" sifra="9402"/>
+    </klijenti>
+</data>

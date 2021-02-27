@@ -1,0 +1,36 @@
+﻿  Bankar.cpp
+  Covjek.cpp
+  Klijent.cpp
+  pch.cpp
+  ProjectManagementSystem.cpp
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(156,20): warning C4018: '<': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(157,25): warning C4018: '<': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(176,20): warning C4018: '<': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(179,21): warning C4018: '<': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(201,20): warning C4018: '<': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(205,11): warning C4018: '>': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(214,20): warning C4018: '<': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(220,12): warning C4018: '>': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(227,20): warning C4018: '<': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(233,20): warning C4018: '<': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(240,12): warning C4018: '>': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(253,20): warning C4018: '<': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(258,20): warning C4018: '<': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(289,6): warning C4101: 'nsifra': unreferenced local variable
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(354,20): warning C4018: '<': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(359,20): warning C4018: '<': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(352,6): warning C4101: 'najvecaUplata': unreferenced local variable
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(428,20): warning C4018: '<': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(442,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(445,20): warning C4018: '<': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(516,20): warning C4018: '<': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(544,20): warning C4018: '<': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(548,11): warning C4018: '>': signed/unsigned mismatch
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(532,6): warning C4101: 'dpsifra': unreferenced local variable
+E:\projekti\RacunKV\RacunKV\RacunKV\ProjectManagementSystem.cpp(533,6): warning C4101: 'dpsifk': unreferenced local variable
+  Racuni.cpp
+  RacunKV.cpp
+  tinyxml2.cpp
+  Transakcije.cpp
+  Generating Code...
+  RacunKV.vcxproj -> E:\projekti\RacunKV\RacunKV\Debug\RacunKV.exe
